@@ -327,37 +327,6 @@
           "status": "Active"
         }
       ]
-    },
-    {
-      "name": "Level 49 Power Core",
-      "buildingNo": 1930,
-      "fixtures": [
-        {
-          "id": 2915669,
-          "location": "888,408,61",
-          "status": "Active"
-        },
-        {
-          "id": 8687950,
-          "location": "522,938,85",
-          "status": "Active"
-        },
-        {
-          "id": 3852267,
-          "location": "709,830,39",
-          "status": "Active"
-        },
-        {
-          "id": 5940814,
-          "location": "942,373,42",
-          "status": "Active"
-        },
-        {
-          "id": 8915773,
-          "location": "219,101,57",
-          "status": "Disabled"
-        }
-      ]
     }
   ]
 }
