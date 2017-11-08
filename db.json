@@ -201,41 +201,6 @@
       "selected": true,
       "description": "Second label",
       "date": "2017-06-13, 04:06:06 PM"
-    },
-    {
-      "name": "Level 67 Power Core",
-      "status": "Active",
-      "selected": true,
-      "description": "Second label",
-      "date": "2017-10-24, 09:10:03 PM"
-    },
-    {
-      "name": "Level 68 Power Core",
-      "status": "Active",
-      "selected": true,
-      "description": "Second label",
-      "date": "2017-09-18, 03:09:45 AM"
-    },
-    {
-      "name": "Level 69 Power Core",
-      "status": "Cleared/Acked/Closed",
-      "selected": false,
-      "description": "Second label",
-      "date": "2017-10-10, 10:10:03 PM"
-    },
-    {
-      "name": "Level 70 Power Core",
-      "status": "Cleared/Acked/Closed",
-      "selected": true,
-      "description": "Second label",
-      "date": "2017-10-26, 09:10:29 AM"
-    },
-    {
-      "name": "Level 71 Power Core",
-      "status": "Active",
-      "selected": false,
-      "description": "Second label",
-      "date": "2017-01-07, 12:01:08 PM"
     }
   ],
   "products": [
@@ -390,37 +355,6 @@
         {
           "id": 8915773,
           "location": "219,101,57",
-          "status": "Disabled"
-        }
-      ]
-    },
-    {
-      "name": "Level 50 Power Core",
-      "buildingNo": 4113,
-      "fixtures": [
-        {
-          "id": 8008994,
-          "location": "400,239,92",
-          "status": "Disabled"
-        },
-        {
-          "id": 2362329,
-          "location": "368,420,92",
-          "status": "Active"
-        },
-        {
-          "id": 6258899,
-          "location": "839,577,13",
-          "status": "Active"
-        },
-        {
-          "id": 1439345,
-          "location": "727,904,14",
-          "status": "Disabled"
-        },
-        {
-          "id": 4926167,
-          "location": "440,304,36",
           "status": "Disabled"
         }
       ]
